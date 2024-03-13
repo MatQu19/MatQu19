@@ -3,7 +3,7 @@
 - Estudiante de Ingeniería en la Pontificia Universidad Católica de Chile
 - Me especializo en Biotecnología
 - Participo en la iniciativa Ingeniería Para Chile @iparachile
-- 
+
   
 
 <!--
