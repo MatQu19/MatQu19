@@ -1,8 +1,8 @@
 # Mateo Q
 
-- Estudiante de Ingeniería en la Pontificia Universidad Católica de Chile
-- Me especializo en Biotecnología
-- Participo en la iniciativa Ingeniería Para Chile @iparachile
+- Estudiante de Ingeniería Civil en la Pontificia Universidad Católica de Chile
+- Me especializo en Biotecnología de Procesos, con minor en Bioinformática
+- He participado de distintas iniciativas estudiantiles de innovación como Ingeniería Para Chile y PomaCycle.
 
   
 
