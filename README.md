@@ -1,4 +1,4 @@
-# Mateo Q
+# Mateo Quezada
 
 - Estudiante de Ingeniería Civil en la Pontificia Universidad Católica de Chile
 - Me especializo en Biotecnología de Procesos, con minor en Bioinformática
